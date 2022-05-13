@@ -23,7 +23,7 @@ app.post('/order', (req, res) => {
 });
 
 app.get('/orders', (req, res) => {
-  // TODO write your code here to update the db with an order
+  // TODO write your code here to return all the orders
 });
 
 export const server = app.listen(PORT, () => {
