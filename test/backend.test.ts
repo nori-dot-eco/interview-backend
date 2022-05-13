@@ -16,6 +16,6 @@ describe('backend', () => {
   });
 
   describe('GET /orders', () => {
-    it.todo('creates an order');
+    it.todo('retrieves all orders');
   });
 });
